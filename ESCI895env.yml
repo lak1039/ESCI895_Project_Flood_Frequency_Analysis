@@ -1,7 +1,0 @@
-name: ESCI985env
-dependencies:
-  - numpy
-  - matplotlib
-  - pandas
-  - scipy
-  - math
